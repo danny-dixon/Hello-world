@@ -1,2 +1,3 @@
 # Hello-world
 A practice repository that I'm just now creating
+The most important thing right now is to keep on practicing and gain skills. I wonder how this could be used in an non-techie setting...
